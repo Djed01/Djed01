@@ -13,6 +13,8 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Djed01&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
+![Goggins](https://github.com/Djed01/Djed01/assets/93399985/58f25982-db4a-4fdc-b89b-f497fc527f5b)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Djed01&icon=0&color=0)](https://visitcount.itsvg.in)
 
