@@ -1,7 +1,7 @@
 # About Me:
 - 👋 Hi, I’m **Gordan Letić** (@Djed01)
+- 💻 Bachelor of Electrical Engineering, major in Software Engineering
 - 🐧 An average Linux user and Software Engineering enthusiast
-- 💻 I’m currently studying software engineering at the <a href="https://etf.unibl.org/" target="_blank">Faculty of Electrical Engineering in Banja Luka</a>
 - 📧 E-mail: gordanletic01@gmail.com
 
 # 💻 Tech Stack:
